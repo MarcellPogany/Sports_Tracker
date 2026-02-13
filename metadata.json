@@ -1,0 +1,5 @@
+{
+  "name": "SportEventsScanner",
+  "description": "A personalized sports event tracker that curates a calendar and viewing information based on user preferences.",
+  "requestFramePermissions": []
+}
